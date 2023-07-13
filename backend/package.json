@@ -25,6 +25,7 @@
     "@nestjs/mapped-types": "*",
     "@nestjs/platform-express": "^9.0.0",
     "@prisma/client": "^4.16.2",
+    "firebase-admin": "^11.10.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
   },
