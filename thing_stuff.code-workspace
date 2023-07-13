@@ -7,5 +7,7 @@
 			"path": "thing_stuffs"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"dart.flutterSdkPath": "D:\\fvm\\sdks\\versions\\stable"
+	}
 }
