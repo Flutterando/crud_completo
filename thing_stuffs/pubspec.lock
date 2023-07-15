@@ -13,10 +13,10 @@ packages:
     dependency: "direct main"
     description:
       name: asp
-      sha256: dfb79e903c9ac26e626e12e36830c8022099c918372042daf713b0f95475ea52
+      sha256: a89e5a58fcdaf8092e4111289b3bb042c79185b4f6edb288e850f7e205ecbd95
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.0"
+    version: "1.1.1"
   async:
     dependency: transitive
     description:

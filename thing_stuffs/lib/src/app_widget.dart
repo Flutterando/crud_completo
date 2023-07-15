@@ -12,8 +12,6 @@ class AppWidget extends StatefulWidget {
 }
 
 class _AppWidgetState extends State<AppWidget> {
-  // This widget is the root of your application.
-
   @override
   void initState() {
     super.initState();

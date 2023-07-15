@@ -37,7 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_modular: 6.0.0-beta.5
   uno: ^1.1.9
-  asp: ^1.1.0
+  asp: ^1.1.1
   firebase_core: ^2.14.0
   firebase_auth: ^4.6.3
 
