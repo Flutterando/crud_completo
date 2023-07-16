@@ -9,7 +9,7 @@ class AuthModule extends Module {
   @override
   List<Bind> get exportedBinds => [
         AutoBind.factory<AuthService>(FirebaseAuthService.new),
-        AutoBind.singleton(AuthReduce.new),
+        AutoBind.singleton(AuthReducer.new),
       ];
 
   @override

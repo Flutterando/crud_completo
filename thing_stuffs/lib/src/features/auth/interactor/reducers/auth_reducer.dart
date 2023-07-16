@@ -4,10 +4,10 @@ import 'package:thing_stuffs/src/features/auth/interactor/states/auth_state.dart
 import '../atoms/auth_atom.dart';
 import '../services/auth_service.dart';
 
-class AuthReduce extends Reducer {
+class AuthReducer extends Reducer {
   final AuthService service;
 
-  AuthReduce(this.service) {
+  AuthReducer(this.service) {
     on(() => [checkAuthAction], _checkAuth);
     on(() => [loginWithEmailAction], _loginWithEmail);
     on(() => [logoutAction], _logout);
